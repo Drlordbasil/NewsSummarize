@@ -1,0 +1,11 @@
+The package requirements for this Python program are:
+
+- requests
+- bs4 (BeautifulSoup)
+- sklearn.feature_extraction.text (TfidfVectorizer)
+- sklearn.decomposition (TruncatedSVD)
+- nltk.corpus (stopwords)
+- nltk.tokenize (sent_tokenize, word_tokenize)
+- nltk.stem (PorterStemmer)
+- nltk (pos_tag, ne_chunk)
+- gensim.summarization (summarize)
